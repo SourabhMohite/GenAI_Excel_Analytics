@@ -1,1 +1,1 @@
-dccsc
+print("hello")
